@@ -1,0 +1,3 @@
+Name: Alexis
+Age: 28
+Favorite Color: Green
